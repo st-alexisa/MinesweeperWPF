@@ -1,0 +1,15 @@
+D:\Repositories\MinesweeperWPF\MinesweeperWPF\MinesweeperWPF\obj\Debug\MinesweeperWPF.csproj.AssemblyReference.cache
+D:\Repositories\MinesweeperWPF\MinesweeperWPF\MinesweeperWPF\obj\Debug\App.g.cs
+D:\Repositories\MinesweeperWPF\MinesweeperWPF\MinesweeperWPF\obj\Debug\MinesweeperWPF_MarkupCompile.cache
+D:\Repositories\MinesweeperWPF\MinesweeperWPF\MinesweeperWPF\bin\Debug\MinesweeperWPF.exe.config
+D:\Repositories\MinesweeperWPF\MinesweeperWPF\MinesweeperWPF\bin\Debug\MinesweeperWPF.exe
+D:\Repositories\MinesweeperWPF\MinesweeperWPF\MinesweeperWPF\bin\Debug\MinesweeperWPF.pdb
+D:\Repositories\MinesweeperWPF\MinesweeperWPF\MinesweeperWPF\obj\Debug\MainWindow.g.cs
+D:\Repositories\MinesweeperWPF\MinesweeperWPF\MinesweeperWPF\obj\Debug\MinesweeperWPF_MarkupCompile.lref
+D:\Repositories\MinesweeperWPF\MinesweeperWPF\MinesweeperWPF\obj\Debug\MainWindow.baml
+D:\Repositories\MinesweeperWPF\MinesweeperWPF\MinesweeperWPF\obj\Debug\MinesweeperWPF.g.resources
+D:\Repositories\MinesweeperWPF\MinesweeperWPF\MinesweeperWPF\obj\Debug\MinesweeperWPF.Properties.Resources.resources
+D:\Repositories\MinesweeperWPF\MinesweeperWPF\MinesweeperWPF\obj\Debug\MinesweeperWPF.csproj.GenerateResource.cache
+D:\Repositories\MinesweeperWPF\MinesweeperWPF\MinesweeperWPF\obj\Debug\MinesweeperWPF.csproj.CoreCompileInputs.cache
+D:\Repositories\MinesweeperWPF\MinesweeperWPF\MinesweeperWPF\obj\Debug\MinesweeperWPF.exe
+D:\Repositories\MinesweeperWPF\MinesweeperWPF\MinesweeperWPF\obj\Debug\MinesweeperWPF.pdb
